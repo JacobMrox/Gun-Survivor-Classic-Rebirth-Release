@@ -22,9 +22,10 @@ In short, this project aims to:
 * ~~Fix window title typo [GUN SURUIVOR] -> RESIDENT EVIL: SURVIVOR PC~~
 * ~~Fix mouse crosshair alignment (replace crosshair)~~
 * ~~Add custom resolution option~~
+* Fix movie player by replacing DirectShow with ffmpeg
+* Add widescreen option (to prevent stretched ratio)
 * Fix shadow/blood pool under enemies/npcs
 * Fix Zombie footstep sound
-* Fix movie player by replacing DirectShow with ffmpeg
 * Add option to skip movies/videos
 * Fix NPC/enemy lighting/shader
 * Fix enemy AI/Animations
