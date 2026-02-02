@@ -28,7 +28,7 @@ In short, this project aims to:
 * Add option to skip movies/videos
 * Fix NPC/enemy lighting/shader
 * Fix enemy AI/Animations
-* Raw Input + Dinput
+* Add Xinput and Raw Input support, in addition to Dinput
 * Add a proper in-game options menu backed by d3d8.ini
 
 # Media
