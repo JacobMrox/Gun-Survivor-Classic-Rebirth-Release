@@ -1,6 +1,6 @@
 # Why
 
-Biohazard: Gun Survivor was released on PC exclusively in China and Taiwan, and that version has long been infamous for its instability, bugs, and poor technical implementation. On modern systems, the game is extremely difficult—if not impossible—to run properly due to outdated APIs, broken dependencies, and compatibility issues.
+Biohazard: Gun Survivor (Resident Evil: Survivor) was released on PC exclusively in China and Taiwan, and that version has long been infamous for its instability, bugs, and poor technical implementation. On modern systems, the game is extremely difficult—if not impossible—to run properly due to outdated APIs, broken dependencies, and compatibility issues.
 
 This project exists to modernize and preserve the PC version of Gun Survivor by replacing legacy systems with modern, stable alternatives. The goal is not only to make the game playable on current hardware and operating systems, but also to improve its overall usability, performance, and configurability—without altering the original experience.
 
