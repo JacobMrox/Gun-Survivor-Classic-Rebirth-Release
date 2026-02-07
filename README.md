@@ -1,3 +1,5 @@
+**Want to see this project reach the next level?** I’m currently navigating some rough seas and could use a little wind in my sails. If you’ve enjoyed my work so far, a [small donation goes](https://www.paypal.com/paypalme/JACOBQAROONI) a long way in keeping the lights on and the updates coming. Thanks for having my back!
+
 # Why
 
 Biohazard: Gun Survivor (known in China as 惡靈古堡：生存遊戲 and internationally Resident Evil: Survivor) was released on PC exclusively in China and Taiwan, and that version has long been infamous for its instability, bugs, and poor technical implementation. On modern systems, the game is extremely difficult—if not impossible—to run properly due to outdated APIs, broken dependencies, and compatibility issues.
