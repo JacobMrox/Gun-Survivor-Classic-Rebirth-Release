@@ -21,6 +21,7 @@ In short, this project aims to:
 
 <img width="496" height="517" alt="image" src="https://github.com/user-attachments/assets/3ba34689-a19e-474c-98e7-34a9b0903d25" />
 
+## V 1.0 (Current Public Build)
 * ✅ ~~Remove CD check~~ DONE 
 * ✅ ~~60 FPS Lock to fix door transitions~~ DONE 
 * ✅ ~~Add ability to play in window mode~~ DONE 
@@ -32,10 +33,13 @@ In short, this project aims to:
 * ✅ ~~Add option to enable/disable log printing~~ DONE
 * ✅ ~~Add option to skip movies/videos~~ DONE - Set MovieSkip to 1 to skip entirely always, or press SPACE/RETURN/ENTER to skip manually whenever you want!
 * ✅ ~~Add a proper in-game options menu backed by d3d8.ini~~ DONE
-* Show icon in Window
+
+## V 1.1
+* ✅ ~~Add option to show/disable config at boot~~ DONE - when disabled users must hold SHIFT or edit config.ini to show config menu
+* ✅ ~~Show icon in Window~~ DONE
 * Fix shadow/blood pool under enemies/npcs (In progress...).
 * Fix movie player by replacing DirectShow with ffmpeg (In progress...).
-* Add crosshair skins + ability to select custom one.
+* ✅ ~~Add crosshair skins + ability to select custom one.~~ DONE
 * Remove old log printing shipped with the original game (debug.txt).
 * Remove the need for the game to have GBIO.CFG in the directory to launch.
 * Add shooting screen flash (gun con flash simulation) effect.
