@@ -35,13 +35,14 @@ In short, this project aims to:
 * ✅ ~~Add a proper in-game options menu backed by d3d8.ini~~ DONE
 
 ## V 1.1
-<img width="492" height="618" alt="image" src="https://github.com/user-attachments/assets/8e3d240d-fd5c-494f-b9a8-4b35ab11f830" />
+<img width="492" height="618" alt="image" src="https://github.com/user-attachments/assets/29ed3d21-0dde-484d-8f4a-bb225b9d8d2a" />
 
 * ✅ ~~Add option to show/disable config at boot~~ DONE - when disabled users must hold SHIFT or edit config.ini to show config menu
 * ✅ ~~Show icon in Window~~ DONE
+* ✅ ~~Add crosshair skins + ability to select custom one.~~ DONE
+* Crosshair Scaling (In progress...)
 * Fix shadow/blood pool under enemies/npcs (In progress...).
 * Fix movie player by replacing DirectShow with ffmpeg (In progress...).
-* ✅ ~~Add crosshair skins + ability to select custom one.~~ DONE
 * Remove old log printing shipped with the original game (debug.txt).
 * Remove the need for the game to have GBIO.CFG in the directory to launch.
 * Add shooting screen flash (gun con flash simulation) effect.
