@@ -30,12 +30,12 @@ In short, this project aims to:
 * ✅ ~~Fix mouse crosshair alignment (replace crosshair)~~ DONE 
 * ✅ ~~Add custom resolution option~~ DONE
 * ✅ ~~Add option to enable/disable log printing~~ DONE
-* ✅ ~~Add option to skip movies/videos~~ DONE - Set MovieSkip to 1 to skip entirely always, or press SPACE/RETURN/ENTER to skip manually whenever you want.
+* ✅ ~~Add option to skip movies/videos~~ DONE - Set MovieSkip to 1 to skip entirely always, or press SPACE/RETURN/ENTER to skip manually whenever you want!
 * ✅ ~~Add a proper in-game options menu backed by d3d8.ini~~ DONE
-* Remove old log printing shipped with the original game (debug.txt)
-* Remove the need for the game to have GBIO.CFG in the directory to launch
 * Fix shadow/blood pool under enemies/npcs (In progress...)
 * Fix movie player by replacing DirectShow with ffmpeg (In progress...)
+* Remove old log printing shipped with the original game (debug.txt)
+* Remove the need for the game to have GBIO.CFG in the directory to launch
 * Add widescreen option (to prevent stretched ratio)
 * Fix Zombie footstep sound
 * Fix NPC/enemy lighting/shader
@@ -54,7 +54,7 @@ In short, this project aims to:
 
 If something does not work, double check that all files were copied correctly first. Most issues come from incomplete installation rather than the patch itself.
 
-The screenshot below shows an example of a ~~fake account's~~ comment that was later removed by YouTube moderation. It incorrectly blamed the project for user-side setup errors:
+The screenshot below shows an example of a ~~troll account's~~ comment that was later removed by YouTube moderation. It incorrectly blamed the project for user-side setup errors:
 
 <img width="1350" height="324" alt="image" src="https://github.com/user-attachments/assets/3f2d6bea-2945-4833-93e6-f6d5abac4b8a" />
 
