@@ -32,16 +32,19 @@ In short, this project aims to:
 * ✅ ~~Add option to enable/disable log printing~~ DONE
 * ✅ ~~Add option to skip movies/videos~~ DONE - Set MovieSkip to 1 to skip entirely always, or press SPACE/RETURN/ENTER to skip manually whenever you want!
 * ✅ ~~Add a proper in-game options menu backed by d3d8.ini~~ DONE
-* Fix shadow/blood pool under enemies/npcs (In progress...)
-* Fix movie player by replacing DirectShow with ffmpeg (In progress...)
+* Show icon in Window
+* Fix shadow/blood pool under enemies/npcs (In progress...).
+* Fix movie player by replacing DirectShow with ffmpeg (In progress...).
 * Add crosshair skins + ability to select custom one.
-* Remove old log printing shipped with the original game (debug.txt)
-* Remove the need for the game to have GBIO.CFG in the directory to launch
-* Add widescreen option (to prevent stretched ratio)
-* Fix Zombie footstep sound
-* Fix NPC/enemy lighting/shader
-* Fix enemy AI/Animations
-* Add Xinput and Raw Input support, in addition to Dinput
+* Remove old log printing shipped with the original game (debug.txt).
+* Remove the need for the game to have GBIO.CFG in the directory to launch.
+* Add shooting screen flash (gun con flash simulation) effect.
+* Add widescreen option (to prevent stretched ratio).
+* Fix Zombie footstep sound.
+* Fix NPC/enemy lighting/shader.
+* Fix enemy AI/Animations.
+* Add Xinput and Raw Input support, in addition to Dinput.
+* Mod Support
 
 # Installation
 
@@ -53,25 +56,32 @@ In short, this project aims to:
 
 # F.A.Q.
 
-1) ***Will you translate this game?***
+***1) Will you translate this game?***
 
-There is already an [English patch](https://www.legendsworld.net/webroot/phpBB3/viewtopic.php?p=86314) for this game (made by Reikaz), I cannot be bothered to redo that all over again.
+An English patch already exists for this title, created by Reikaz. You can find it here:
+https://www.legendsworld.net/webroot/phpBB3/viewtopic.php?p=86314
 
-2) ***This patch didn't work/I don't like it/I hate you/I got a beef with you/any kind of dumb/rude comments/I just want to harass you on social media/etc...***
+Because a translation is already available, I have no plans to recreate that work from scratch. My focus is on restoring and improving the PC experience.
 
-If something does not work, double check that all files were copied correctly first. Most issues come from incomplete installation rather than the patch itself.
+***2) The patch didn’t work / I don’t like it / I want to complain***
 
-The screenshot below shows an example of a ~~troll's account~~ comment that was later removed by YouTube moderation for bullying and harassment. This project is provided for free as is, and just because there's a support/donation link there doesn't mean you are obliged to do it or forced to do it, in fact, nobody gave away a cent for this so far, nor they have to, except one person who had early access to this project as it was their dream to see this properly working on PC and one of the main reasons I continued to work on it. I do not appreciate such comments and behaviour. Rudeness and lies aside, they incorrectly blamed the project for user-side setup errors.
+If the patch does not work, please double-check that all included files were copied correctly into the game directory. The vast majority of reported issues are caused by incomplete installation rather than a problem with the project itself.
+
+This project is provided free of charge and as-is, without warranty. It is a personal development effort, not a commercial product or full-time service. Constructive feedback is always welcome. Harassment, insults, or false accusations will be ignored.
 
 <img width="1350" height="324" alt="image" src="https://github.com/user-attachments/assets/3f2d6bea-2945-4833-93e6-f6d5abac4b8a" />
 
-I don't know how laptop noise sounds are suddenly saliva sounds, plus, if my voice was not clear I would've not uploaded the video, this is what I get for giving to the community. 
+A previous example of abusive behavior was removed by YouTube moderation for violating their policies. I will not engage with that kind of conduct.
 
-P.S. *I have a fairly good idea who that person is but let's all just calm down*
+If you encounter a genuine bug, please provide clear steps to reproduce it, your game version, and your system details. That helps far more than frustration does.
 
-3) ***When will you finish feature X***
+***3) When will feature X be finished?***
 
-As I said, I do not appreciate rude behaviour and comments. Therefore this project will be paused for now. I have more important things to focus on. But at least the game is playable again now.
+Development is done in my own time. There is no fixed schedule.
+
+The project is currently playable again on modern systems, which was the primary goal. Additional features will be implemented when time and circumstances allow.
+
+Support and encouragement genuinely help keep the project moving forward.
 
 # Media
 
