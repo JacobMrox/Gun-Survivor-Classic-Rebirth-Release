@@ -19,6 +19,8 @@ In short, this project aims to:
 
 # Project Status
 
+<img width="496" height="517" alt="image" src="https://github.com/user-attachments/assets/3ba34689-a19e-474c-98e7-34a9b0903d25" />
+
 * ✅ ~~Remove CD check~~ DONE 
 * ✅ ~~60 FPS Lock to fix door transitions~~ DONE 
 * ✅ ~~Add ability to play in window mode~~ DONE 
@@ -27,15 +29,18 @@ In short, this project aims to:
 * ✅ ~~Fix window title typo [GUN SURUIVOR] -> RESIDENT EVIL: SURVIVOR PC~~ DONE 
 * ✅ ~~Fix mouse crosshair alignment (replace crosshair)~~ DONE 
 * ✅ ~~Add custom resolution option~~ DONE
+* ✅ ~~Add option to enable/disable log printing~~ DONE
+* ✅ ~~Add option to skip movies/videos~~ DONE - Set MovieSkip to 1 to skip entirely always, or press SPACE/RETURN/ENTER to skip manually whenever you want.
+* ✅ ~~Add a proper in-game options menu backed by d3d8.ini~~ DONE
+* Remove old log printing shipped with the original game (debug.txt)
+* Remove the need for the game to have GBIO.CFG in the directory to launch
 * Fix shadow/blood pool under enemies/npcs (In progress...)
 * Fix movie player by replacing DirectShow with ffmpeg (In progress...)
-* Add option to skip movies/videos (In progress...)
 * Add widescreen option (to prevent stretched ratio)
 * Fix Zombie footstep sound
 * Fix NPC/enemy lighting/shader
 * Fix enemy AI/Animations
 * Add Xinput and Raw Input support, in addition to Dinput
-* Add a proper in-game options menu backed by d3d8.ini
 
 # Installation
 
