@@ -23,12 +23,12 @@ In short, this project aims to:
 * ✅ ~~Add ability to lock mouse in window~~ DONE 
 * ✅ ~~Fix window title typo [GUN SURUIVOR] -> RESIDENT EVIL: SURVIVOR PC~~ DONE 
 * ✅ ~~Fix mouse crosshair alignment (replace crosshair)~~ DONE 
-* ✅ ~~Add custom resolution option~~ DONE 
-* Fix movie player by replacing DirectShow with ffmpeg
+* ✅ ~~Add custom resolution option~~ DONE
+* Fix shadow/blood pool under enemies/npcs (In progress...)
+* Fix movie player by replacing DirectShow with ffmpeg (In progress...)
+* Add option to skip movies/videos (In progress...)
 * Add widescreen option (to prevent stretched ratio)
-* Fix shadow/blood pool under enemies/npcs
 * Fix Zombie footstep sound
-* Add option to skip movies/videos
 * Fix NPC/enemy lighting/shader
 * Fix enemy AI/Animations
 * Add Xinput and Raw Input support, in addition to Dinput
