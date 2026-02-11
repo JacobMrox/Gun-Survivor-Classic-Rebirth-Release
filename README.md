@@ -16,14 +16,14 @@ In short, this project aims to:
 
 # Project Status
 
-* ~~Remove CD check~~
-* ~~60 FPS Lock to fix door transitions~~
-* ~~Add ability to play in window mode~~
-* ~~Show window border in windowed mode~~
-* ~~Add ability to lock mouse in window~~
-* ~~Fix window title typo [GUN SURUIVOR] -> RESIDENT EVIL: SURVIVOR PC~~
-* ~~Fix mouse crosshair alignment (replace crosshair)~~
-* ~~Add custom resolution option~~
+* ~~Remove CD check~~ DONE ✅
+* ~~60 FPS Lock to fix door transitions~~ DONE ✅
+* ~~Add ability to play in window mode~~ DONE ✅
+* ~~Show window border in windowed mode~~ DONE ✅
+* ~~Add ability to lock mouse in window~~ DONE ✅
+* ~~Fix window title typo [GUN SURUIVOR] -> RESIDENT EVIL: SURVIVOR PC~~ DONE ✅
+* ~~Fix mouse crosshair alignment (replace crosshair)~~ DONE ✅
+* ~~Add custom resolution option~~ DONE ✅
 * Fix movie player by replacing DirectShow with ffmpeg
 * Add widescreen option (to prevent stretched ratio)
 * Fix shadow/blood pool under enemies/npcs
