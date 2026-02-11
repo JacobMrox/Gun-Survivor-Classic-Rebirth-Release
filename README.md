@@ -35,7 +35,7 @@ In short, this project aims to:
 * ✅ ~~Add a proper in-game options menu backed by d3d8.ini~~ DONE
 
 ## V 1.1
-<img width="492" height="618" alt="image" src="https://github.com/user-attachments/assets/0eb2c188-80a0-4534-b4b9-92715031bebb" />
+<img width="492" height="618" alt="image" src="https://github.com/user-attachments/assets/8e3d240d-fd5c-494f-b9a8-4b35ab11f830" />
 
 * ✅ ~~Add option to show/disable config at boot~~ DONE - when disabled users must hold SHIFT or edit config.ini to show config menu
 * ✅ ~~Show icon in Window~~ DONE
