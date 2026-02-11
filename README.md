@@ -34,12 +34,10 @@ In short, this project aims to:
 * Add Xinput and Raw Input support, in addition to Dinput
 * Add a proper in-game options menu backed by d3d8.ini
 
-# Install
-
-Installation
+# Installation
 
 1) Click <> Code → Download ZIP
-2) Extract all files into your game installation directory
+2) Extract all files into your game installation directory, replacing any files when prompted.
 3) The game requires every included file to run correctly, including GBIO.CFG (a dummy file the original game expects at startup).
 4) This requirement will be automated by the DLL in the next version
 5) This project is provided free, as-is, without warranty, and will continue improving over time
