@@ -51,7 +51,7 @@ In short, this project aims to:
 4) This requirement will be automated by the DLL in the next version
 5) This project is provided free, as-is, without warranty, and will continue improving over time
 
-## F.A.Q.
+# F.A.Q.
 
 1) ***Will you translate this game?***
 
