@@ -1,4 +1,7 @@
-**Want to see this project reach the next level?** I’m currently navigating some rough seas and could use a little wind in my sails. If you’ve enjoyed my work so far, a [small donation goes](https://www.paypal.com/paypalme/JACOBQAROONI) a long way in keeping the lights on and the updates coming. Thanks for having my back!
+> This project is provided as-is, free of charge and without warranty. Development is done in my own time, and while I do my best to provide updates and fixes, I can’t treat this as a full-time job.
+
+**Want to see this project reach the next level?**
+I’m currently navigating some rough seas and could use a little wind in my sails. If you’ve enjoyed my work so far, a [small donation goes](https://www.paypal.com/paypalme/JACOBQAROONI) a long way in keeping the lights on and the updates coming. Thanks for having my back!
 
 # Why
 
