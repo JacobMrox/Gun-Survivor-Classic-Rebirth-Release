@@ -50,15 +50,27 @@ In short, this project aims to:
 4) This requirement will be automated by the DLL in the next version
 5) This project is provided free, as-is, without warranty, and will continue improving over time
 
-## Note
+## F.A.Q.
+
+1) ***Will you translate this game?***
+
+There is already an [English patch](https://www.legendsworld.net/webroot/phpBB3/viewtopic.php?p=86314) for this game (made by Reikaz), I cannot be bothered to redo that all over again.
+
+2) ***This patch didn't work/I don't like it/I hate you/I got a beef with you/any kind of dumb/rude comments/I just want to harass you on social media/etc...***
 
 If something does not work, double check that all files were copied correctly first. Most issues come from incomplete installation rather than the patch itself.
 
-The screenshot below shows an example of a ~~troll account's~~ comment that was later removed by YouTube moderation. It incorrectly blamed the project for user-side setup errors:
+The screenshot below shows an example of a ~~troll's account~~ comment that was later removed by YouTube moderation for bullying and harassment. This project is provided for free as is, and just because there's a support/donation link there doesn't mean you are obliged to do it or forced to do it, in fact, nobody gave away a cent for this so far, nor they have to, except one person who had early access to this project as it was their dream to see this properly working on PC and one of the main reasons I continued to work on it. I do not appreciate such comments and behaviour. Rudeness and lies aside, they incorrectly blamed the project for user-side setup errors.
 
 <img width="1350" height="324" alt="image" src="https://github.com/user-attachments/assets/3f2d6bea-2945-4833-93e6-f6d5abac4b8a" />
 
-P.S. I have a fairly good idea who that person is but let's all just calm down ^
+I don't know how laptop noise sounds are suddenly saliva sounds, plus, if my voice was not clear I would've not uploaded the video, this is what I get for giving to the community. 
+
+P.S. *I have a fairly good idea who that person is but let's all just calm down*
+
+3) ***When will you finish feature X***
+
+As I said, I do not appreciate rude behaviour and comments. Therefore this project will be paused for now. I have more important things to focus on. But at least the game is playable again now.
 
 # Media
 
