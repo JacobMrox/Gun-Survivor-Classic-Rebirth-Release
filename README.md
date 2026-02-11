@@ -36,13 +36,23 @@ In short, this project aims to:
 
 # Install
 
-1) Click the "<> Code " ---> Download Zip
-2) Copy/Extract all the files to your game install directory
-3) The game needs all the included files to run properly (even GBIO.CFG to startup which is a dummy file the original game uses), this will be remedied in the next version to be automatically filled by the DLL.
-4) This is being provided freely as is without warranty and will develope as I continue working on it.
-5) Don't be like *the guy below* who placed his own failure on me.
+Installation
+
+1) Click <> Code → Download ZIP
+2) Extract all files into your game installation directory
+3) The game requires every included file to run correctly, including GBIO.CFG (a dummy file the original game expects at startup).
+4) This requirement will be automated by the DLL in the next version
+5) This project is provided free, as-is, without warranty, and will continue improving over time
+
+# Note
+
+If something does not work, double check that all files were copied correctly first. Most issues come from incomplete installation rather than the tool itself.
+
+The screenshot below shows an example of a *fake account's* comment that was later removed by YouTube moderation. It incorrectly blamed the project for user-side setup errors:
 
 <img width="1350" height="324" alt="image" src="https://github.com/user-attachments/assets/3f2d6bea-2945-4833-93e6-f6d5abac4b8a" />
+
+P.S. I have a fairly good idea who that person is but let's all just calm down ^
 
 # Media
 
