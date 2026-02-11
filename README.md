@@ -44,9 +44,9 @@ In short, this project aims to:
 
 ## Note
 
-If something does not work, double check that all files were copied correctly first. Most issues come from incomplete installation rather than the tool itself.
+If something does not work, double check that all files were copied correctly first. Most issues come from incomplete installation rather than the patch itself.
 
-The screenshot below shows an example of a *fake account's* comment that was later removed by YouTube moderation. It incorrectly blamed the project for user-side setup errors:
+The screenshot below shows an example of a ~~fake account's~~ comment that was later removed by YouTube moderation. It incorrectly blamed the project for user-side setup errors:
 
 <img width="1350" height="324" alt="image" src="https://github.com/user-attachments/assets/3f2d6bea-2945-4833-93e6-f6d5abac4b8a" />
 
