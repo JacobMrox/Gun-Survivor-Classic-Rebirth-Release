@@ -38,7 +38,7 @@ In short, this project aims to:
 
 1) Click the "<> Code " ---> Download Zip
 2) Copy/Extract all the files to your game install directory
-3) The game needs even GBIO.CFG to startup, its a dummy file the original game uses, this will be remedied in the next version to be automatically filled by the DLL.
+3) The game needs all the included files to run properly (even GBIO.CFG to startup which is a dummy file the original game uses), this will be remedied in the next version to be automatically filled by the DLL.
 4) This is being provided freely as is without warranty and will develope as I continue working on it.
 5) Don't be like *the guy below* who placed his own failure on me.
 
