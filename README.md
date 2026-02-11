@@ -34,6 +34,7 @@ In short, this project aims to:
 * ✅ ~~Add a proper in-game options menu backed by d3d8.ini~~ DONE
 * Fix shadow/blood pool under enemies/npcs (In progress...)
 * Fix movie player by replacing DirectShow with ffmpeg (In progress...)
+* Add crosshair skins + ability to select custom one.
 * Remove old log printing shipped with the original game (debug.txt)
 * Remove the need for the game to have GBIO.CFG in the directory to launch
 * Add widescreen option (to prevent stretched ratio)
