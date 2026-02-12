@@ -6,12 +6,11 @@ I’m currently navigating some rough seas and could use a little wind in my sai
 # Why
 
 Biohazard: Gun Survivor (known in China as 惡靈古堡：生存遊戲 and internationally Resident Evil: Survivor) was released on PC exclusively in China and Taiwan, and that version has long been infamous for its instability, bugs, and poor technical implementation. On modern systems, the game is extremely difficult—if not impossible—to run properly due to outdated APIs, broken dependencies, and compatibility issues.
-
 Inspired by [Classic Rebirth](https://classicrebirth.com/) by Gemini-Loboto3. This project exists to modernize and preserve the PC version of Gun Survivor by replacing legacy systems with modern, stable alternatives. The goal is not only to make the game playable on current hardware and operating systems, but also to improve its overall usability, performance, and configurability—without altering the original experience.
+Another reason being is that this is the first RE/BIO game i actually owned, and I have fond memories of it. 
 
 In short, this project aims to:
 
-Another reason being is that this is the first RE/BIO game i actually owned, and I have fond memories of it. 
 * Restore playability on modern Windows systems
 * Replace obsolete or broken APIs
 * Fix long-standing bugs and technical issues
