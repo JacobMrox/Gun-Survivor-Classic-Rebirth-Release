@@ -19,9 +19,11 @@ In short, this project aims to:
 
 # Project Status
 
-<img width="496" height="517" alt="image" src="https://github.com/user-attachments/assets/3ba34689-a19e-474c-98e7-34a9b0903d25" />
 
 ## V 1.0 (Current Public Build)
+
+<img width="496" height="517" alt="image" src="https://github.com/user-attachments/assets/3ba34689-a19e-474c-98e7-34a9b0903d25" />
+
 * ✅ ~~Remove CD check~~ DONE 
 * ✅ ~~60 FPS Lock to fix door transitions~~ DONE 
 * ✅ ~~Add ability to play in window mode~~ DONE 
@@ -35,6 +37,7 @@ In short, this project aims to:
 * ✅ ~~Add a proper in-game options menu backed by d3d8.ini~~ DONE
 
 ## V 1.1
+
 <img width="492" height="618" alt="image" src="https://github.com/user-attachments/assets/37439bc7-61f7-47f7-8897-364a946792f6" />
 
 * ✅ ~~Add option to show/disable config at boot~~ DONE - when disabled users must hold SHIFT or edit config.ini to show config menu
@@ -53,6 +56,18 @@ In short, this project aims to:
 * Fix enemy AI/Animations.
 * Add Xinput and Raw Input support, in addition to Dinput.
 * Mod Support
+
+# Progress Videos
+
+<p align="center">
+  <a href="https://youtu.be/u___fNYwvH0">
+    <img src="https://img.youtube.com/vi/u___fNYwvH0/hqdefault.jpg" width="360">
+  </a>
+  <a href="https://youtu.be/IuuDPHVQ1iY">
+    <img src="https://img.youtube.com/vi/IuuDPHVQ1iY/hqdefault.jpg" width="360">
+  </a>
+</p>
+
 
 # Installation
 
@@ -90,11 +105,3 @@ Development is done in my own time. There is no fixed schedule.
 The project is currently playable again on modern systems, which was the primary goal. Additional features will be implemented when time and circumstances allow.
 
 Support and encouragement genuinely help keep the project moving forward.
-
-# Media
-
-[![Watch the video](https://img.youtube.com/vi/u___fNYwvH0/maxresdefault.jpg)](https://youtu.be/u___fNYwvH0)
-
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ff9dddc9-73c1-4b38-9ece-df09b8459819" />
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ab899a4f-0aec-4f0d-95aa-dddbb1cae2f7" />
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b2207f70-ce1c-4de8-8d1a-f6f3e3854d15" />
