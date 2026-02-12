@@ -11,6 +11,7 @@ Inspired by [Classic Rebirth](https://classicrebirth.com/) by Gemini-Loboto3. Th
 
 In short, this project aims to:
 
+Another reason being is that this is the first RE/BIO game i actually owned, and I have fond memories of it. 
 * Restore playability on modern Windows systems
 * Replace obsolete or broken APIs
 * Fix long-standing bugs and technical issues
@@ -47,7 +48,7 @@ In short, this project aims to:
 * ✅ ~~Add 320x240, 1280x960, and 960x720 resolution options.~~ DONE
 * Fix shadow/blood pool under enemies/npcs (In progress...).
 * Fix movie player by replacing DirectShow with ffmpeg (In progress...).
-* Add widescreen 3d aspect ration option and 4:3 display (to prevent stretched ratio).
+* Add widescreen 3d aspect ratio option and 4:3 display (to prevent stretched ratio).
 * Remove old log printing shipped with the original game (debug.txt).
 * Remove the need for the game to have GBIO.CFG in the directory to launch.
 * Add shooting screen flash (gun con flash simulation) effect.
@@ -101,6 +102,8 @@ If you encounter a genuine bug, please provide clear steps to reproduce it, your
 ***3) When will feature X be finished?***
 
 Development is done in my own time. There is no fixed schedule.
+
+***4) How can i help?***
 
 The project is currently playable again on modern systems, which was the primary goal. Additional features will be implemented when time and circumstances allow.
 
