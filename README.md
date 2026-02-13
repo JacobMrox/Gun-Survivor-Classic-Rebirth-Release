@@ -45,6 +45,8 @@ In short, this project aims to:
 * ✅ ~~Add crosshair skins + ability to select custom one.~~ DONE
 * ✅ ~~Crosshair Scaling (In progress...)~~ DONE
 * ✅ ~~Add 320x240, 1280x960, and 960x720 resolution options.~~ DONE
+* Redirect D3D8 calls to D3D9 (enabling modern alphas and reshade to work).
+* Redirect avifil32.dll (Microsoft AVI File support library) and quartz.dll (DirectShow Runtime) to use FFMPEG.
 * Fix shadow/blood pool under enemies/npcs (In progress...).
 * Fix movie player by replacing DirectShow with ffmpeg (In progress...).
 * Add widescreen 3d aspect ratio option and 4:3 display (to prevent stretched ratio).
