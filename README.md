@@ -47,7 +47,8 @@ In short, this project aims to:
 * ✅ ~~Add 320x240, 1280x960, and 960x720 resolution options.~~ DONE
 * ✅ ~~Redirect D3D8 calls to D3D9 (enabling modern alphas and reshade to work).~~ DONE
 
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/793b4e39-4cec-4d35-8959-f73e13b9c4d8" />
+<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/793b4e39-4cec-4d35-8959-f73e13b9c4d8" />
+<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/c996912e-d21a-44c6-bed0-29a7f9ef2bf6" />
 
 * Redirect avifil32.dll (Microsoft AVI File support library) and quartz.dll (DirectShow Runtime) to use FFMPEG.
 * Fix shadow/blood pool under enemies/npcs (In progress...).
