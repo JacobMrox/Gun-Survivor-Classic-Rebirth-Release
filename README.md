@@ -51,15 +51,14 @@ In short, this project aims to:
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/793b4e39-4cec-4d35-8959-f73e13b9c4d8" />
 <img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/c996912e-d21a-44c6-bed0-29a7f9ef2bf6" />
 
-* Redirect avifil32.dll (Microsoft AVI File support library) and quartz.dll (DirectShow Runtime) to use FFMPEG.
+* Fix movie player by replacing DirectShow with ffmpeg (In progress...): Redirect avifil32.dll (Microsoft AVI File support library) and quartz.dll (DirectShow Runtime) to use FFMPEG.
 * Fix shadow/blood pool under enemies/npcs (In progress...).
-* Fix movie player by replacing DirectShow with ffmpeg (In progress...).
 * Add widescreen 3d aspect ratio option and 4:3 display (to prevent stretched ratio).
 * Remove old log printing shipped with the original game (debug.txt).
 * Remove the need for the game to have GBIO.CFG in the directory to launch.
-* Add shooting screen flash (gun con flash simulation) effect.
 * Fix Zombie footstep sound.
 * Fix NPC/enemy lighting/shader.
+* Add shooting screen flash (gun con flash simulation) effect.
 * Fix enemy AI/Animations.
 * Add Xinput and Raw Input support, in addition to Dinput.
 * Mod Support
