@@ -1,8 +1,5 @@
 > This project is provided as-is, free of charge and without warranty. Development is done in my own time, and while I do my best to provide updates and fixes, I can’t treat this as a full-time job.
 
-**Want to see this project reach the next level?**
-I’m currently navigating some rough seas and could use a little wind in my sails. If you’ve enjoyed my work so far, a [small donation goes](https://www.paypal.com/paypalme/JACOBQAROONI) a long way in keeping the lights on and the updates coming. Thanks for having my back!
-
 # Why
 
 Biohazard: Gun Survivor (known in China as 惡靈古堡：生存遊戲 and internationally Resident Evil: Survivor) was released on PC exclusively in China and Taiwan, and that version has long been infamous for its instability, bugs, and poor technical implementation. On modern systems, the game is extremely difficult—if not impossible—to run properly due to outdated APIs, broken dependencies, and compatibility issues.
@@ -112,7 +109,8 @@ Development is done in my own time. There is no fixed schedule.
 
 The project is currently playable again on modern systems, which was the primary goal. Additional features will be implemented when time and circumstances allow.
 
-Support and encouragement genuinely help keep the project moving forward.
+Support and encouragement genuinely help keep the project moving forward. **Want to see this project reach the next level?**
+I’m currently navigating some rough seas and could use a little wind in my sails. If you’ve enjoyed my work so far, a [small donation goes](https://www.paypal.com/paypalme/JACOBQAROONI) a long way in keeping the lights on and the updates coming. Thanks for having my back!
 
 # Disclaimer 
 
