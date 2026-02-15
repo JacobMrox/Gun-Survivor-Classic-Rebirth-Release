@@ -114,6 +114,6 @@ I’m currently navigating some rough seas and could use a little wind in my sai
 
 # Disclaimer 
 
-This project is not affiliated nor endorsed by Classic Rebirth by Gemini-Loboto3, and is merely inspired by it and named as such for naming convience. If Gemini minds, the name will be changed.
+For the time being, this project is not affiliated with nor endorsed by CAPCOM nor Classic Rebirth by Gemini-Loboto3, and is merely inspired by it and named as such for naming convience. If Gemini minds, the name will be changed.
 
 CAPCOM 様: このゲームを PC で再リリースしたい場合は、ソース コードを喜んで提供しますので、個人的にご連絡ください。
