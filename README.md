@@ -2,6 +2,7 @@
 
 # Why
 
+## English
 Biohazard: Gun Survivor (known in China as 惡靈古堡：生存遊戲 and internationally Resident Evil: Survivor) was released on PC exclusively in China and Taiwan, and that version has long been infamous for its instability, bugs, and poor technical implementation. On modern systems, the game is extremely difficult—if not impossible—to run properly due to outdated APIs, broken dependencies, and compatibility issues.
 
 Inspired by [Classic Rebirth](https://classicrebirth.com/) by Gemini-Loboto3. This project exists to modernize and preserve the PC version of Gun Survivor by replacing legacy systems with modern, stable alternatives. The goal is not only to make the game playable on current hardware and operating systems, but also to improve its overall usability, performance, and configurability—without altering the original experience.
@@ -15,6 +16,55 @@ In short, this project aims to:
 * Fix long-standing bugs and technical issues
 * Add quality-of-life improvements and configuration options
 * Lay the groundwork for further enhancements and modding
+
+## Japanese
+
+バイオハザード：ガンサバイバー（中国では「惡靈古堡：生存遊戲」、海外では Resident Evil: Survivor として知られる）は、PC版が中国と台湾でのみ発売されました。しかしこのバージョンは、長年にわたり不安定さや多数のバグ、技術的完成度の低さで知られています。現代の環境では、古いAPIや壊れた依存関係、互換性の問題により、正常に動作させることが非常に困難、場合によってはほぼ不可能な状態です。
+
+本プロジェクトは、Gemini-Loboto3氏による Classic Rebirth
+ に着想を得て制作されています。目的は、レガシーな仕組みを現代的で安定した技術に置き換えることで、PC版『ガンサバイバー』を現代環境に適応させ、将来にわたって保存することです。オリジナルの体験を損なうことなく、現行のハードウェアおよびOS上で快適にプレイできるようにし、操作性・パフォーマンス・設定の柔軟性を向上させることを目指しています。
+
+また、個人的な理由として、この作品は私が初めて所有したバイオ／REシリーズのタイトルであり、特別な思い出がある作品でもあります。
+
+## Arabic
+Arabic
+
+بايوهازارد: غَن سَرفايفَر (المعروف في الصين باسم 惡靈古堡：生存遊戲 ودوليًا ريزدِنت إيفِل: سَرفايفَر) تم إصداره على الحاسوب حصريًا في الصين وتايوان، وقد اشتهرت هذه النسخة منذ زمن طويل بعدم الاستقرار، وكثرة الأخطاء، وضعف التنفيذ التقني. على الأنظمة الحديثة، يصبح تشغيل اللعبة صعبًا للغاية — إن لم يكن مستحيلًا — بسبب اعتمادها على واجهات برمجة قديمة، واعتماديات معطلة، ومشاكل توافق.
+
+مستوحًى من كلاسيك ريبيرث من جِمِني-لوبوتو3، يهدف هذا المشروع إلى تحديث والحفاظ على نسخة الحاسوب من غَن سَرفايفَر من خلال استبدال الأنظمة القديمة بحلول حديثة ومستقرة. الهدف ليس تغيير التجربة الأصلية، بل جعل اللعبة قابلة للعب على العتاد وأنظمة التشغيل الحالية، مع تحسين سهولة الاستخدام والأداء وخيارات الإعداد — دون المساس بالتجربة الأصلية.
+
+سبب آخر هو أن هذه كانت أول لعبة ريزدِنت إيفِل امتلكتها فعليًا، ولدي ذكريات جميلة معها.
+
+## Farsi
+
+بایوهازارد: گان سِروایوِر (که در چین با نام 惡靈古堡：生存遊戲 و در سطح بین‌المللی با نام رزیدنت اویل: سِروایوِر شناخته می‌شود) به صورت انحصاری برای رایانه شخصی در چین و تایوان منتشر شد، و این نسخه مدت‌ها به خاطر ناپایداری، باگ‌ها و پیاده‌سازی فنی ضعیف بدنام بوده است. روی سیستم‌های مدرن امروزی، اجرای بازی بسیار سخت — اگر نگوییم غیرممکن — است، به دلیل استفاده از APIهای قدیمی، وابستگی‌های خراب و مشکلات سازگاری.
+
+با الهام از کلاسیک ریبرث ساختهٔ جِمِنی-لوبوتو3، این پروژه برای مدرن‌سازی و حفظ نسخهٔ PC گان سِروایوِر ایجاد شده است، با جایگزین کردن سیستم‌های قدیمی با راه‌حل‌های مدرن و پایدار. هدف تغییر تجربهٔ اصلی بازی نیست، بلکه قابل اجرا کردن آن روی سخت‌افزار و سیستم‌عامل‌های امروزی است، همراه با بهبود کاربری، عملکرد و گزینه‌های تنظیم — بدون تغییر در ماهیت اصلی بازی.
+
+دلیل دیگر این است که این اولین بازی رزیدنت اویل بود که واقعاً مالک آن بودم و خاطرات خوبی از آن دارم.
+## Spanish
+
+Biohazard: Gun Survivor (conocido internacionalmente como Resident Evil: Survivor) tuvo una versión para PC lanzada exclusivamente en China y Taiwán. Esa versión se hizo conocida por su inestabilidad, errores y mala implementación técnica. En sistemas modernos, el juego es muy difícil — si no imposible — de ejecutar correctamente debido a APIs obsoletas y problemas de compatibilidad.
+
+Este proyecto, inspirado en Classic Rebirth, busca modernizar y preservar la versión de PC reemplazando sistemas antiguos por alternativas modernas y estables. El objetivo no es cambiar la experiencia original, sino hacer que el juego funcione correctamente en hardware y sistemas operativos actuales.
+
+Además, este proyecto tiene un valor personal para mí, ya que fue el primer juego de Resident Evil que tuve y guardo buenos recuerdos de él.
+
+## Italian
+
+Biohazard: Gun Survivor (conosciuto a livello internazionale come Resident Evil: Survivor) è stato pubblicato su PC esclusivamente in Cina e Taiwan. Questa versione è diventata famosa per la sua instabilità, bug e scarsa qualità tecnica. Sui sistemi moderni è molto difficile, se non impossibile, farlo funzionare correttamente a causa di API obsolete e problemi di compatibilità.
+
+Ispirato a Classic Rebirth, questo progetto mira a modernizzare e preservare la versione PC sostituendo i sistemi legacy con soluzioni moderne e stabili. L’obiettivo non è modificare l’esperienza originale, ma renderla giocabile su hardware e sistemi operativi attuali.
+
+Per me ha anche un valore personale, perché è stato il primo gioco di Resident Evil che ho posseduto e ho molti bei ricordi legati ad esso.
+
+## Portoguese
+
+Biohazard: Gun Survivor (conhecido internacionalmente como Resident Evil: Survivor) teve sua versão para PC lançada exclusivamente na China e em Taiwan. Essa versão ficou conhecida por sua instabilidade, bugs e implementação técnica fraca. Em sistemas modernos, o jogo é extremamente difícil — ou até impossível — de executar corretamente devido a APIs obsoletas e problemas de compatibilidade.
+
+Inspirado no Classic Rebirth, este projeto busca modernizar e preservar a versão de PC substituindo sistemas antigos por alternativas modernas e estáveis. O objetivo não é alterar a experiência original, mas torná-la jogável em hardware e sistemas operacionais atuais.
+
+Também tem um significado pessoal para mim, pois foi o primeiro jogo de Resident Evil que tive e guardo ótimas lembranças dele.
 
 # Project Status
 
