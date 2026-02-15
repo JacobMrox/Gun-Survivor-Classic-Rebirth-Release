@@ -112,3 +112,7 @@ Development is done in my own time. There is no fixed schedule.
 The project is currently playable again on modern systems, which was the primary goal. Additional features will be implemented when time and circumstances allow.
 
 Support and encouragement genuinely help keep the project moving forward.
+
+# Disclaimer 
+
+This project is not affiliated nor endorsed by Classic Rebirth by Gemini-Loboto3, and is merely inspired by it and named as such for naming convience. If Gemini minds, the name will be changed.
