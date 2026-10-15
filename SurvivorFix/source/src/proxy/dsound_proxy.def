@@ -1,0 +1,14 @@
+LIBRARY dsound
+EXPORTS
+  DirectSoundCreate=Proxy_DirectSoundCreate @1
+  DirectSoundEnumerateA=Proxy_DirectSoundEnumerateA @2
+  DirectSoundEnumerateW=Proxy_DirectSoundEnumerateW @3
+  DllCanUnloadNow=Proxy_DllCanUnloadNow @4 PRIVATE
+  DllGetClassObject=Proxy_DllGetClassObject @5 PRIVATE
+  DirectSoundCaptureCreate=Proxy_DirectSoundCaptureCreate @6
+  DirectSoundCaptureEnumerateA=Proxy_DirectSoundCaptureEnumerateA @7
+  DirectSoundCaptureEnumerateW=Proxy_DirectSoundCaptureEnumerateW @8
+  GetDeviceID=Proxy_GetDeviceID @9
+  DirectSoundFullDuplexCreate=Proxy_DirectSoundFullDuplexCreate @10
+  DirectSoundCreate8=Proxy_DirectSoundCreate8 @11
+  DirectSoundCaptureCreate8=Proxy_DirectSoundCaptureCreate8 @12

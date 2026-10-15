@@ -130,6 +130,18 @@ Também tem um significado pessoal para mim, pois foi o primeiro jogo de Residen
 4) This requirement will be automated by the DLL in the next version
 5) This project is provided free, as-is, without warranty, and will continue improving over time
 
+# Survivor Fix (optional add-on)
+
+`SurvivorFix/` restores zombie behaviours of the PlayStation version, ported from the original PS1 code:
+
+* one walk cycle per zombie (no more jerky walk that keeps "resetting")
+* PS1 chase: zombies steer while walking and go around walls instead of walking into them
+* PS1 stumble: a chasing zombie can trip forward and get back up
+
+It does not modify `gun_bio.exe` or any game file. To use it, copy `SurvivorFix/dsound.dll` and
+`SurvivorFix/survivor_fix.ini` next to `gun_bio.exe` and start the game as usual. Every fix can be
+switched off in `survivor_fix.ini`. Details, source code and license (MIT): [SurvivorFix/README.md](SurvivorFix/README.md).
+
 # F.A.Q.
 
 ***1) Will you translate this game?***
