@@ -12,6 +12,11 @@ namespace sf::features {
 // Serve a vedere cosa fa il gioco senza debugger: es. se 0x23 compare mai.
 bool InstallAnimObserver();
 
+// Morso anche alle spalle (toglie il filtro "solo davanti" di 0043A8A0).
+bool InstallBiteFromBehind();
+// Applica o toglie la modifica secondo il .ini (anche a gioco aperto).
+void SyncBiteFromBehind();
+
 // Registra stage/stanza caricati (00475530) e gli spawn degli zombie.
 bool InstallRoomObserver();
 // Chiamata dall'hook dell'update nemici (ps1_zombie_stumble.cpp) per ogni S.

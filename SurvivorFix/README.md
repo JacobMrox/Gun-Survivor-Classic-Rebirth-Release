@@ -2,7 +2,7 @@
 
 Optional add-on for Classic Rebirth that brings back zombie behaviours of the
 PlayStation version of Resident Evil Survivor, ported from the original PS1 code
-(SLUS-01087). It does **not** modify `gun_bio.exe` or any game file: it hooks the
+(SLUS-01087), and fixes a few PC port bugs. It does **not** modify `gun_bio.exe` or any game file: it hooks the
 game in memory and every fix can be switched off in `survivor_fix.ini`.
 
 Only the Taiwanese/Chinese PC executable supported by Classic Rebirth is handled
@@ -16,6 +16,7 @@ other executable the fixes stay off and the reason is written to the log.
 | `Ps1ZombieWalk` | on | Zombies keep one walk cycle, like on PS1. The PC port re-rolled the walk every few frames (it checks the end of the animation on a track that loops every 4 frames in two of the walks), which made zombies jerk and "reset". |
 | `Ps1ZombieNavigation` | on | Zombies chase like on PS1: they steer while walking and go around walls using the room wall data that ships with the game (`Resource\ROOMENV.DAT`, never read by the PC port) instead of walking into them. Zombies only, for now. |
 | `Ps1ZombieStumble` | on | Zombies can stumble forward and get back up while chasing you (about 1 in 20 approaches, as on PS1). |
+| `BiteFromBehind` | on | Monsters can hit you from behind too. The PC port dropped every hit while your back was turned (it only accepted attacks from the half-plane in front of the player); on PS1 zombies even grab you from behind. All monsters. |
 
 ## Install
 
@@ -29,7 +30,7 @@ within a second.
 
 ## Uninstall
 
-Delete `dsound.dll`, `survivor_fix.ini` and `survivor_fix.log`.
+Delete `dsound.dll`, `survivor_fix.ini`, `survivor_fix.log` and `survivor_fix_dsound.log`.
 
 ## Reporting problems
 

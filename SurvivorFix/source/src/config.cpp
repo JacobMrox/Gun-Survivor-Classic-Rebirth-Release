@@ -4,6 +4,7 @@
 
 #include <cwchar>
 
+#include "features/features.h"
 #include "log.h"
 
 namespace sf {
@@ -76,6 +77,7 @@ Config Read() {
   c.sitUpSpeed = ReadFloat(L"Ps1ZombieBackFall", L"SitUpSpeed", defaults.sitUpSpeed);
   c.backFallFrame = ReadInt(L"Ps1ZombieBackFall", L"TriggerFrame", defaults.backFallFrame);
   c.backFallPush = ReadFloat(L"Ps1ZombieBackFall", L"Push", defaults.backFallPush, true);
+  c.biteFromBehind = ReadBool(L"Features", L"BiteFromBehind", defaults.biteFromBehind);
   c.ps1ZombieWalk = ReadBool(L"Features", L"Ps1ZombieWalk", defaults.ps1ZombieWalk);
   c.ps1ZombieNavigation =
       ReadBool(L"Features", L"Ps1ZombieNavigation", defaults.ps1ZombieNavigation);
@@ -110,6 +112,7 @@ void LogValues(const Config& before, const Config& now, bool all) {
   SF_LOG_VALUE(sitUpSpeed, "%.2f");
   SF_LOG_VALUE(backFallFrame, "%d");
   SF_LOG_VALUE(backFallPush, "%.2f");
+  SF_LOG_VALUE(biteFromBehind, "%d");
   SF_LOG_VALUE(ps1ZombieWalk, "%d");
   SF_LOG_VALUE(ps1ZombieNavigation, "%d");
   SF_LOG_VALUE(navProbeDistance, "%.0f");
@@ -145,6 +148,7 @@ void ReloadConfigIfChanged() {
   g_config = next;
   Log("config: survivor_fix.ini cambiato, riletto");
   LogValues(before, g_config, false);
+  features::SyncBiteFromBehind();
 }
 
 }  // namespace sf

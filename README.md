@@ -132,11 +132,12 @@ Também tem um significado pessoal para mim, pois foi o primeiro jogo de Residen
 
 # Survivor Fix (optional add-on)
 
-`SurvivorFix/` restores zombie behaviours of the PlayStation version, ported from the original PS1 code:
+`SurvivorFix/` restores zombie behaviours of the PlayStation version, ported from the original PS1 code, and fixes a few PC port bugs:
 
 * one walk cycle per zombie (no more jerky walk that keeps "resetting")
 * PS1 chase: zombies steer while walking and go around walls instead of walking into them
 * PS1 stumble: a chasing zombie can trip forward and get back up
+* monsters can hit you from behind too (the PC port dropped every hit while your back was turned)
 
 It does not modify `gun_bio.exe` or any game file. To use it, copy `SurvivorFix/dsound.dll` and
 `SurvivorFix/survivor_fix.ini` next to `gun_bio.exe` and start the game as usual. Every fix can be

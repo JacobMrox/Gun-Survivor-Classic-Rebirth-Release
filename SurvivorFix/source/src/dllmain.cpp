@@ -34,6 +34,15 @@ DWORD WINAPI Init(LPVOID module) {
   CreateMutexW(nullptr, FALSE, mutexName);
   if (GetLastError() == ERROR_ALREADY_EXISTS) return 0;
 
+  // Come proxy (dsound.dll) carica subito la dsound di sistema, fuori dal loader lock:
+  // col launcher il gioco la aveva gia' caricata all'avvio, e chi la cerca per nome
+  // (es. DirectShow per i filmati) prima del primo suono troverebbe solo il proxy.
+  // DllCanUnloadNow esiste solo nel proxy e non crea oggetti.
+  if (auto preload = reinterpret_cast<HRESULT(WINAPI*)()>(reinterpret_cast<void*>(
+          GetProcAddress(static_cast<HMODULE>(module), "DllCanUnloadNow")))) {
+    preload();
+  }
+
   g_dir = ModuleDir(static_cast<HMODULE>(module));
   LoadConfig(g_dir + L"survivor_fix.ini");
   LogOpen((g_dir + L"survivor_fix.log").c_str(), g_config.log);
@@ -64,6 +73,9 @@ DWORD WINAPI Init(LPVOID module) {
   if (!HooksInit()) return 0;
 
   if (g_config.animObserver) features::InstallAnimObserver();
+  // Sempre: verifica i byte e applica la modifica solo se BiteFromBehind=1, cosi'
+  // si puo' accendere e spegnere anche a gioco aperto.
+  features::InstallBiteFromBehind();
   // La navigazione ha bisogno dell'aggancio della stanza (muri di ROOMENV) anche senza
   // il log degli spawn di RoomObserver.
   if (g_config.roomObserver || g_config.ps1ZombieNavigation) features::InstallRoomObserver();

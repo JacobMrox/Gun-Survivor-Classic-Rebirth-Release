@@ -37,6 +37,8 @@ struct Config {
   float sitUpSpeed = 2.0f;
   int backFallFrame = 10;     // comando della 0x20 a cui si tira (PS1: 10)
   float backFallPush = 0.0f;  // moltiplica la spinta PS1; 0 = cade sul posto
+  // I mostri mordono anche alle spalle (il PC filtrava i colpi da dietro).
+  bool biteFromBehind = false;
   // Una sola camminata per zombie (02 o 03) come sul PS1, senza i cambi a scatti del PC.
   bool ps1ZombieWalk = false;
   // Inseguimento PS1 con i muri di ROOMENV (stato 4). [Ps1ZombieNavigation] nel .ini.

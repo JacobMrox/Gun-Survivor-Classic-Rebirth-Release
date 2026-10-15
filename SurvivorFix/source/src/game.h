@@ -62,6 +62,16 @@ constexpr uintptr_t kAccumulate = 0x0045FD70;
 inline constexpr uint8_t kAccumulatePrologue[] = {0x83, 0xEC, 0x0C, 0xD9,
                                                   0x81, 0x20, 0x01, 0x00, 0x00};
 
+// 0043A8A0, evento d'attacco: dopo il prodotto scalare fra la direzione
+// giocatore->mostro e il davanti del giocatore (0043AB5E FCOMP 0.0), 0043AB69 JNZ +7
+// salta la CALL 0043BC70 quando il mostro e' alle spalle. Verifica Ghidra 2026-10-15.
+constexpr uintptr_t kBiteFacingCheck = 0x0043AB5E;
+inline constexpr uint8_t kBiteFacingCheckBytes[] = {0xD8, 0x1D, 0xA0, 0xD2, 0x5A, 0x00, 0xDF,
+                                                    0xE0, 0xF6, 0xC4, 0x01, 0x75, 0x07, 0x8B,
+                                                    0xCE, 0xE8, 0xFE, 0x10, 0x00, 0x00};
+constexpr uintptr_t kBiteFacingJump = 0x0043AB69;
+inline constexpr uint8_t kBiteFacingJumpBytes[] = {0x75, 0x07};
+
 // FUN_0043A8A0: update dell'AI per un S.
 // Verifica Ghidra 2026-10-15: ECX = S, nessun argomento, tutti i 35 RET sono
 // C3; ritorna in EAX la richiesta passata a 00436B40 oppure -1.

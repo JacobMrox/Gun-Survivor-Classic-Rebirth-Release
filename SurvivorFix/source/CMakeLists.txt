@@ -56,6 +56,7 @@ set(SF_SOURCES
   src/hooks.cpp
   src/log.cpp
   src/features/anim_observer.cpp
+  src/features/bite_from_behind.cpp
   src/features/room_observer.cpp
   src/features/ps1_zombie_stumble.cpp)
 
